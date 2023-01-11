@@ -1,6 +1,6 @@
 ### Hi there 👋
 My Name is 
-**saidacalexandru/saidacalexandru**
+**Saidac Alexandru**
 
 I have 1 years of experience with Swift Development, enjoying all the way of the journey.
 
